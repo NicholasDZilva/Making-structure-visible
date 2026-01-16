@@ -285,6 +285,10 @@ This framework is designed to be extended and improved:
 
 ### What NOT to Contribute
 - Frameworks requiring institutional permission to function
-- Proprietary or black-box implementations
+- Proprietary or black-box implementations.
+
 - Approaches that sacrifice reversibility for optimization
 - Measurement systems without audit trails
+
+- #Reference:
+- -All papers cited in this repository can be found for free public access at https://github.com/NicholasDZilva
